@@ -1,0 +1,27 @@
+{
+  "name": "loadermest.js",
+  "version": "2.0.0",
+  "description": "a new Loader system",
+  "main": "dist/js/loadermest.min.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mestoness/loaderMest.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "framework",
+    "javascript-framework",
+    "loader-plugin"
+  ],
+  "author": "MestOness (Ahmet Baki Memiş)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mestoness/loaderMest.js/issues"
+  },
+  "homepage": "https://github.com/mestoness/loaderMest.js#readme"
+}
+
