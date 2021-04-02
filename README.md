@@ -4,13 +4,6 @@
 Ahmet Baki Memiş
 ## Contact
 <a href="mailto:resistmaze@gmail.com">Use this address to contact me</a>
-## NPM
-
-```
-
-npm install loadermest.js
-
-```
 
 ## CDN
 
